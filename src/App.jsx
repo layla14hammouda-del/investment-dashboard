@@ -524,3 +524,4 @@ ${tasks.filter(t => !t.completed && t.priority === 'High').slice(0, 3).map(t =>
   );
 };
 
+export default InvestmentAnalystDashboard;
